@@ -30,7 +30,7 @@ void piramit(int a)
 int main()
 {
     int a;
-    printf("$ ./mario\n");
+    printf("mario\n");
    loop: printf("height:");
     scanf("%d",&a);
 
